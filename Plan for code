@@ -1,0 +1,7 @@
+##Plan for the code
+1. Running gtap in python --> test
+2. Define code for tariff/subsidy shocks
+3. Disaggregate countries and test on 1 country
+4. Create for loop and run step 3 over all countries
+5. Code to collate outputs
+6. Post-processing for data representation
